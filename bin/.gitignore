@@ -1,0 +1,16 @@
+/.idea/
+/.mvn/
+/.project
+/.settings/
+/.vscode/
+/HELP.md
+/LICENSE
+/Pracfile
+/README.md
+/coupon_system.iml
+/mvnw
+/mvnw.cmd
+/pom.xml
+/src/
+/target/
+/bin/
